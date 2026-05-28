@@ -1,7 +1,16 @@
+
 streamlit
 pandas
 scikit-learn
 sentence-transformers
 torch
 pdfplumber
+
+streamlit
+pandas
+scikit-learn
+sentence-transformers
+torch
+pdfplumber
+>>>>>>> 2e77aa8936d7012ecd49b221174b30472572fd7e
 nltk
